@@ -1,0 +1,29 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* GLOBAL */
+body {
+    color: #212121;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* HEADER */
+#title {
+    padding: 3em;
+}
